@@ -1,0 +1,45 @@
+@import "reset.css"
+@import "fonts.scss"
+
+.top-spaced
+	padding-top: 10%
+
+.centered
+	margin: 0 auto
+	text-align: center
+
+html,
+body
+	height: 100%
+
+
+body
+	font-family: $regular
+
+
+h1
+	font-size: 5em
+
+
+header,
+main,
+footer
+	box-sizing: content-box;
+	height: 33.33%
+	@extend .centered
+	
+	h1
+		@extend .top-spaced
+
+header
+	color: white
+	background-color: blue
+
+main
+	color: yellow
+	background-color: red
+
+
+footer
+	color: pink
+	background-color: black
