@@ -15,7 +15,10 @@ body
 
 body
 	font-family: $regular
+	background: url(../img/cyrus.jpg) no-repeat 50% 50%
 
+	&:hover
+		cursor: pointer
 
 h1
 	font-size: 5em
@@ -30,16 +33,13 @@ footer
 	
 	h1
 		@extend .top-spaced
-
+		text-shadow: 0 0 50px grey
 header
 	color: white
-	background-color: blue
 
 main
 	color: yellow
-	background-color: red
 
 
 footer
 	color: pink
-	background-color: black
