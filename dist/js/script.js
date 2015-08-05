@@ -1,1 +1,1 @@
-var warn;warn=function(n){return console.warn(n)};warn("test warning tho");
+var warn;warn=function(n){return console.warn(n)};warn("test warning tho");document.body.addEventListener("click",function(){return location.href="https://github.com/fitsum"},false);
