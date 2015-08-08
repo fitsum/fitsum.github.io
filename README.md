@@ -1,11 +1,14 @@
 #PROJECT
 
+page of home
 
 ##INFO
 
+if any
+	in wiki
 
 ##TODO
 
-
-##LONG TODO
+if any
+	in wiki
 
