@@ -5,7 +5,7 @@
   src: local('Rock Salt'), local('RockSalt'), url(fonts/RockSalt400.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
-.top-spaced,header h1,main h1,footer h1{padding-top:10%}.centered,header,main,footer{margin:0 auto;text-align:center}html,body{height:100%}body{font-family:"Rock Salt";background:url(../img/cyrus.jpg) no-repeat 50% 50%}body:hover{cursor:pointer}h1{font-size:5em}header,main,footer{box-sizing:content-box;height:33.33%}header h1,main h1,footer h1{text-shadow:0 0 50px grey}header{color:white}main{color:#FFF}footer{color:pink}
+.top-spaced,header h1,main h1,footer h1{padding-top:50vh}.centered,header,main,footer{margin:0 auto;text-align:center}html,body{height:100%}body{font-family:"Rock Salt";background:url(../img/cyrus.jpg) no-repeat 50% 50%; background-size: cover}body:hover{cursor:pointer}h1{font-size:5em}header,main,footer{box-sizing:content-box;height:100%}header h1,main h1,footer h1{text-shadow:0 0 50px grey}header{color:white}main{color:#FFF}footer{color:pink}
 main h1{
 	margin-bottom: 0;
 	line-height: .55
